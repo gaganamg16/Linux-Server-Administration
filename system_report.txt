@@ -1,0 +1,24 @@
+======================================
+       LINUX SYSTEM MONITOR
+======================================
+Date and Time:
+Mon Sep 21 09:15:52 UTC 2026
+
+Current User:
+gagana_m_g
+
+System Uptime:
+ 09:15:52 up 20 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.4Gi       575Mi       6.8Gi       3.5Mi       205Mi       6.8Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.6G  955G   1% /
+
+CPU Information:
+Model name:                              AMD Ryzen AI 5 340 w/ Radeon 840M
+======================================
