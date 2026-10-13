@@ -25,11 +25,11 @@ Created user: devuser
 
 Created group: devgroup
 
-Added devuser to devgroup.
+Added devuser to devgroup
 
 ### File Permissions
 
-Created project.txt.
+Created project.txt
 
 Owner: gagana_m_g
 Group: devgroup
