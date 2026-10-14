@@ -1,6 +1,6 @@
 # Linux Server Administration
 
-A hands-on Linux administration project using Ubuntu on WSL2.
+A hands-on Linux administration project using Ubuntu on WSL2..
 
 ## Objectives
 
@@ -76,4 +76,4 @@ linux-server-administration/
 
 Gagana M G
 
-Computer Science Engineering Student
+Computer Science Engineering Student.
